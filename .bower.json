@@ -1,0 +1,20 @@
+{
+  "name": "classy",
+  "main": "classy.js",
+  "description": "Classes for JavaScript",
+  "license": "",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "homepage": "https://github.com/sweh/classy",
+  "_release": "44687d108c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "44687d108c988244772757fa875b18336b6a5b08"
+  },
+  "_source": "https://github.com/sweh/classy.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/sweh/classy.git"
+}

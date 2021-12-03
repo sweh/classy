@@ -1,0 +1,11 @@
+{
+  "name": "classy",
+  "version": "1.4",
+  "main": "classy.js",
+  "description": "Classes for JavaScript",
+  "license": "",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ]
+}
